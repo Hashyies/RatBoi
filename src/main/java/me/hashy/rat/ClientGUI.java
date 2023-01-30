@@ -1,4 +1,4 @@
-package me.hashy.rat.OLD;
+package me.hashy.rat;
 
 import com.esotericsoftware.kryonet.Client;
 import com.esotericsoftware.kryonet.Connection;
