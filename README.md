@@ -1,5 +1,5 @@
 # RatBoi
-**(Use at your own risk, this project was made for educational purposes)**
+**(Use at your own risk, this project was made for educational purposes), Used for the IB Personal Project**
 
 [![GitHub Status](https://img.shields.io/github/last-commit/Hashyies/RatBoi.svg)](https://github.com/Hashyies/RatBoi)
 
